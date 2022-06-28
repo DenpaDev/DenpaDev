@@ -56,6 +56,6 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/ohmydz"><img src="https://github-readme-stats.vercel.app/api?username=ohmydz&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ohmydz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmydz&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ohmydz"><img src="https://github-readme-stats.vercel.app/api?username=dzofc&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ohmydz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzofc&theme=radical&layout=compact"></a></p> 
 
