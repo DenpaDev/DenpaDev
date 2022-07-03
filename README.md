@@ -2,9 +2,13 @@
 <p align="center">
 <a href="//github.com/OhMyDz"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/OhMyDz&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://api-dz-xyz.herokuapp.com/"/></a>
 </p>
+
+### My Waifu
 <p align="center">
-  <img src="https://telegra.ph/file/94de3ceaff3c997e54b24.jpg" width="340"/></a>
+  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
 </p>
+
+------
 
 <p align="center">
 
@@ -38,10 +42,6 @@
   <a href="https://youtube.com/channel/UC1iti9_lYJD-SRbUAZesjng"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=OnXDz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=OhMyDz&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-
-
-
-
 
 
 
