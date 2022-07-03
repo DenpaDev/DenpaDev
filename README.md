@@ -1,9 +1,12 @@
 <h1 align="center">OnX Dz <img src="https://api.lolhuman.xyz/api/textprome/wonderfulgraffiti?apikey=Atakbotz&text=Denpa%20Uhuy" width="100000px" alt=""><br></h1>
 
+------
 
 <p align="center">
 <a href="//github.com/OhMyDz"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/100502978?s=400&u=60a9c575e186163448795ddf8b760982ee15e9f0&v=4&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://syafa-api.herokuapp.com/"/></a>
 </p>
+
+------
 
 ### My Waifu
 <p align="center">
@@ -30,6 +33,8 @@
 - PHP
 </p>
 
+------
+
 <img align="center" fit="fill" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### Connect With Me ☎️
@@ -45,6 +50,7 @@
   <a href="https://komarev.com/ghpvc/?username=OnXDz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=OhMyDz&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
+------
 
 ### Spotify Playing 🎧
 
@@ -58,6 +64,8 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzOfc" />
 </p>
+
+------
 
 ### Github Stats 🚀
 
