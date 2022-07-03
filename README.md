@@ -1,6 +1,6 @@
 <h1 align="center">OnX Dz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<a href="//github.com/OhMyDz"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/OhMyDz&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://api-dz-xyz.herokuapp.com/"/></a>
+<a href="//github.com/OhMyDz"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/100502978?s=400&u=60a9c575e186163448795ddf8b760982ee15e9f0&v=4&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://syafa-api.herokuapp.com/"/></a>
 </p>
 
 ### My Waifu
