@@ -37,6 +37,10 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
+<!-- Contact me -->
+<details><summary><b>Contact me</b></summary><br>
+<div align="left">
+
 ### Connect With Me ☎️
 <p align="center">
   <a href="https://instagram.com/Denpa012"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -49,6 +53,8 @@
   <a href="https://youtube.com/channel/UC1iti9_lYJD-SRbUAZesjng"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=OnXDz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=OhMyDz&color=green&style=flat-square&label=Profile+View"></a>
 </p>
+
+</div>
 
 ------
 
