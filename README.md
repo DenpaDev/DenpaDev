@@ -46,8 +46,6 @@
 </p>
 
 
-
-
 ### Spotify Playing 🎧
 
 <p align="center">
@@ -55,6 +53,11 @@
 </p>
 
 ------
+
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzOfc" />
+</p>
 
 ### Github Stats 🚀
 
