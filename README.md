@@ -1,4 +1,4 @@
-<h1 align="center">OnX Dz <img src="https://api.lolhuman.xyz/api/textprome/wonderfulgraffiti?apikey=Atakbotz&text=Denpa%20Uhuy" width="100000px" alt=""><br></h1>
+<h1 align="center">OnX Dz <img src="h" width="100000px" alt=""><br></h1>
 
 ------
 
