@@ -63,7 +63,7 @@
 
 </p>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzOfc" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=DzOfc&theme=github-dark-blue&locale=id&background=000000)](https://git.io/streak-stats)" />
 </p>
 
 ------
