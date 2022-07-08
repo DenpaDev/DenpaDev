@@ -73,7 +73,6 @@
 <p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api?username=dzofc&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzofc&theme=radical&layout=compact"></a></p> 
 
-### Stats
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
