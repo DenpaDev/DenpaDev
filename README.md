@@ -70,8 +70,8 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api?username=DenpaDev&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenpaDev&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/DenpaDev"><img src="https://github-readme-stats.vercel.app/api?username=DenpaDev&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/DenpaDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenpaDev&theme=radical&layout=compact"></a></p> 
 
 
 <details>
