@@ -3,7 +3,7 @@
 ------
 
 <p align="center">
-<a href="//github.com/DzOfc"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/100502978?s=400&u=60a9c575e186163448795ddf8b760982ee15e9f0&v=4&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://syafa-api.herokuapp.com/"/></a>
+<a href="//github.com/DenpaDev"><img align="center" src="https://cardivo.vercel.app/api?name=OnX Dz&description=Halo,%20I%27m%20OnX Dz%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/100502978?s=400&u=60a9c575e186163448795ddf8b760982ee15e9f0&v=4&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=OnX Dz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://syafa-api.herokuapp.com/"/></a>
 </p>
 
 ------
@@ -45,9 +45,9 @@
   <a href="https://wa.me/6285335877178"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/OhMyLynn"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/OnXDz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/DzOfc"><img src="https://img.shields.io/badge/Author-DenpaUhy-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/DzOfc" /><br>
+  <a href="https://github.com/DzOfc"><img src="https://img.shields.io/badge/Author-DenpaUhy-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/DenpaDev" /><br>
   <a name=OnXDzc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/ohmydz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/DenpaDev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://komarev.com/ghpvc/?username=OnXDz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=OhMyDz&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
@@ -63,20 +63,20 @@
 
 </p>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=DzOfc&theme=github-dark-blue&locale=id&background=000000)](https://git.io/streak-stats)" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=DenpaDev&theme=github-dark-blue&locale=id&background=000000)](https://git.io/streak-stats)" />
 </p>
 
 ------
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api?username=dzofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api?username=DenpaDev&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/dzofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenpaDev&theme=radical&layout=compact"></a></p> 
 
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/DzOfc)
+![Metrics](https://metrics.lecoq.io/DenpaDev)
 
 </details> 
