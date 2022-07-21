@@ -48,7 +48,7 @@
   <a href="https://github.com/DenpaDev"><img src="https://img.shields.io/badge/Author-DenpaUhy-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/DenpaDev" /><br>
   <a name=OnXDzc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/DenpaDev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=OnXDz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=OhMyDz&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=DenpaDev&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DenpaDev&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 ------
