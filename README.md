@@ -25,12 +25,12 @@
 
 :page_with_curl: I'm currently learning:
 
-- CSS
-- HTML
-- Nodejs
-- Python
-- Javascript
-- PHP
+- ```CSS```
+- ```HTML```
+- ```Nodejs```
+- ```Python```
+- ```Javascript```
+- ```PHP```
 </p>
 
 ------
