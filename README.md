@@ -17,14 +17,13 @@
 
 <p align="center">
 
-- 👤 My Name is OnX Dz
+- 👤 My Name is Denpa
 - 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
 
 </P>
 
 :page_with_curl: I'm currently learning:
-
 - ```Javascript```
 - ```TypeScript```
 - ```Nodejs```
@@ -32,7 +31,9 @@
 - ```CSS```
 - ```HTML```
 - ```PHP```
+
 </p>
+
 
 ------
 
