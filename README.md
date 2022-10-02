@@ -1,12 +1,6 @@
-<h1 align="center">Denpa Dev<img src="https://telegra.ph/file/8e77c2455867ebf67a465.jpg" width="100000px" alt=""><br></h1>
-
-------
-
 <p align="center">
-<a href="//github.com/DenpaDev"><img align="center" src="https://cardivo.vercel.app/api?name=denpadev&description=Halo,%20I%27m%200denpa%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/100502978?s=400&u=60a9c575e186163448795ddf8b760982ee15e9f0&v=4&usqp=CAU&backgroundColor=%23ecf0f1&youtube=OnXDz&github=DenpaDev&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://syafa-api.herokuapp.com/"/></a>
+<a href="https://api-syafa.herokuapp.com"><img align="center" src="https://github-cardname.caliph.my.id/api?name=denpa&description=Hi,%20i%27m%20denpa%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/denpadev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@erorr_&github=denpadev&pattern=ticTacToe&colorPattern=%23eaeaea&site=api-syafa.herokuapp.com"/></a>
 </p>
-
-------
 
 ### My Waifu
 <p align="center">
