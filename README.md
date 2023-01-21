@@ -11,11 +11,11 @@
 
 <p align="center">
 
-- 👤 My Name is Denpa
+- 👤 My Name is denpa
 - 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
 
-</P>
+</p>
 
 :page_with_curl: I'm currently learning:
 - ```Javascript```
