@@ -35,20 +35,6 @@
 
 ------
 
-### Connect With Me ☎️
-<p align="center">
-  <a href="https://instagram.com/admin.denpa.xyz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285335877178"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/OhMyLynn"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/OnXDz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/DenpaDev"><img src="https://img.shields.io/badge/Author-DenpaUhy-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/DenpaDev" /><br>
-  <a name=OnXDzc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/DenpaDev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=DenpaDev&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DenpaDev&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-
-------
-
 ### Spotify Playing 🎧
 
 <p align="center">
@@ -66,8 +52,8 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/DenpaDev"><img src="https://github-readme-stats.vercel.app/api?username=DenpaDev&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/DenpaDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenpaDev&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/denpadev"><img src="https://github-readme-stats.vercel.app/api?username=denpadev&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/denpadev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denpadev&theme=radical&layout=compact"></a></p> 
 
 
 <details>
