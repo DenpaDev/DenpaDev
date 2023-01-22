@@ -33,7 +33,16 @@
 
 <p align="center">
 <kbd> <br> Contact Me <br> </kbd>
-</p>
+<p>
+
+<p align="center">
+
+[![Email]][Link]
+
+[Link]: #Email 'mail@denpaxcode.my.id'
+
+[Email]: https://img.shields.io/badge/Email-37a779?style=for-the-badge
+<p>
 
 ------
 
