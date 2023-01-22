@@ -28,22 +28,6 @@
 
 </p>
 
------
-
-
-<p align="center">
-<kbd> <br> Contact Me <br> </kbd>
-<p>
-
-<p align="center">
-
-[![Email]][Link]
-
-[Link]: #Email 'mail@denpaxcode.my.id'
-
-[Email]: https://img.shields.io/badge/Email-37a779?style=for-the-badge
-<p>
-
 ------
 
 <img align="center" fit="fill" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
