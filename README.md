@@ -28,10 +28,17 @@
 
 </p>
 
+-----
+
+
+<p align="center">
+<kbd> <br> Contact Me <br> </kbd>
+</p>
 
 ------
 
 <img align="center" fit="fill" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 
 ------
 
