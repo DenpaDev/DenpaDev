@@ -12,7 +12,6 @@
 <p align="center">
 
 - 👤 My Name is denpa
-- 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
 
 </p>
